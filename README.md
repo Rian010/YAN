@@ -207,13 +207,15 @@
 <a> 
     <a href="https://github.com/rian010"><img alt="YAN's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rian010&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/rian010"><img alt="YAN's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rian010&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+  
 </a>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rian010&theme=tokyonight" alt="chavi362"  /></a> </p>
 
 <p align="center">
   <a href="https://github.com/rian010">
     <img src="https://github.com/Rian010/rian010/assets/89960876/eb333e83-31ed-4203-8e01-c012107ed59a" alt="github-user-contribution"/>
   </a>
 </p>
-
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
