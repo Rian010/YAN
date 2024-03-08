@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rian010&label=Profile%20views&color=0e75b6&style=flat" alt="rian010" /> </p>
 
-- 📝 I regularly write articles on [https://rian010.github.io/blog/](https://rian010.github.io/blog/)
+- 📝 I regularly write documentation on [https://github.com/Rian010/Journal/wiki](https://github.com/Rian010/Journal/wiki)
 
 - 📫 How to reach me **mhmmdriann@gmial.com**
 
