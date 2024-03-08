@@ -13,7 +13,7 @@
 
 - 📝 I regularly write documentation on [https://github.com/Rian010/Journal/wiki](https://github.com/Rian010/Journal/wiki)
 
-- 📫 How to reach me **mhmmdriann@gmial.com**
+- 📫 How to reach me **mhmmdriann@gmail.com**
 
 - 📄 Know about my experiences [https://www.resumonk.com/AkJMUG5diPoNK0IQFYvXkQ](https://www.resumonk.com/AkJMUG5diPoNK0IQFYvXkQ)
 
