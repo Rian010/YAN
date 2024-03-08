@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm YAN's</h1>
 <h3 align="center">A passionate Computer science student with endless curiosity. I like to dive into different topics.</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/Rian010/rian010/assets/89960876/cc31f649-db2b-4937-a5fe-5f062ac7624d">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rian010&label=Profile%20views&color=0e75b6&style=flat" alt="rian010" /> </p>
 
 - 📝 I regularly write articles on [https://rian010.github.io/blog/](https://rian010.github.io/blog/)
