@@ -1,8 +1,9 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
-![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+YAN's!+%F0%9F%91%8B)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+YAN's!+%F0%9F%91%8B" alt="Hey typed effect" />
+</p>
 
-<h1 align="center">Hi 👋, I'm YAN's</h1>
 <h3 align="center">A passionate Computer science student with endless curiosity. I like to dive into different topics.</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Rian010/rian010/assets/89960876/88c1f6ef-16b0-4833-bc3e-e5e8106b425d">
