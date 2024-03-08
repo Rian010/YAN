@@ -1,3 +1,5 @@
+
+<img align="center" alt="logo" width="1100" src="https://github.com/Rian010/Journal/assets/89960876/e66b94c7-3c4c-45ee-a0b0-0fd9a48f3908">
 <h1 align="center">Hi 👋, I'm YAN's</h1>
 <h3 align="center">A passionate Computer science student with endless curiosity. I like to dive into different topics.</h3>
 
