@@ -1,7 +1,11 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+YAN's!+%F0%9F%91%8B" alt="Hey typed effect" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=1000&size=30&pause=1000&width=435&lines=Hey+there%2C+I'm+YAN's!+%F0%9F%91%8B" alt="Hey typed effect" />
 </p>
 
 <h3 align="center">A passionate Computer science student with endless curiosity. I like to dive into different topics.</h3>
