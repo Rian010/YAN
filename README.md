@@ -44,7 +44,33 @@
 [![wakatime](https://wakatime.com/badge/user/018e1f19-a57f-4713-bda0-42a0eda307b2.svg)](https://wakatime.com/@018e1f19-a57f-4713-bda0-42a0eda307b2) ![Followers](https://img.shields.io/github/followers/rian010?label=Followers) ![Stars](https://img.shields.io/github/stars/rian010?label=Stars)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
+```text
+🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                29 commits          ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌙 Night                  70 commits          █████████████████░░░░░░░░   66.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 09-03-2024 14:17:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
