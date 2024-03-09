@@ -42,69 +42,11 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/018e1f19-a57f-4713-bda0-42a0eda307b2.svg)](https://wakatime.com/@018e1f19-a57f-4713-bda0-42a0eda307b2) ![Followers](https://img.shields.io/github/followers/rian010?label=Followers) ![Stars](https://img.shields.io/github/stars/rian010?label=Stars)
+
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-🌙 Night                  70 commits          █████████████████░░░░░░░░   67.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 09-03-2024 13:58:32 UTC
 <!--END_SECTION:waka-->
 
-  
 </div>
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌆 Daytime                74 commits          ██████████████████░░░░░░░   72.55 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-Other                    2 hrs 20 mins       █████████████████████░░░░   84.22 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-Chrome                   2 hrs 20 mins       █████████████████████░░░░   84.22 % 
-VS Code                  26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-
-💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 09-03-2024 13:48:52 UTC
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
