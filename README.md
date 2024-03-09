@@ -76,7 +76,7 @@ Windows                  2 hrs 46 mins       ███████████�
 
  Last Updated on 09-03-2024 14:41:44 UTC
 <!--END_SECTION:waka-->
-
+![snake animation](https://github.com/Rian010/rian010/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 
