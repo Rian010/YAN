@@ -1,11 +1,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
+<a href="https://skyline.github.com/Rian010"><img width="100%" height="auto" src="https://bit.ly/3BRyuhT" height="175px"/></a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
 ![Banner](https://github.com/Rian010/rian010/assets/89960876/306c9fb0-0a2f-47b3-95a0-b620407c8e8e)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="display:inline;">
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamualaikum..&hearts;++;Self-taught+Front-End-And-Back-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <p align="center">
@@ -79,7 +83,12 @@ Windows                  2 hrs 46 mins       ███████████�
 
 </div>
 
-![snake animation](https://github.com/Rian010/rian010/blob/output/github-contribution-grid-snake2.svg)
+<p align="center">
+  <a href="https://github.com/rian010">
+    <img src="https://github.com/Rian010/rian010/assets/89960876/eb333e83-31ed-4203-8e01-c012107ed59a" alt="github-user-contribution"/>
+  </a>
+</p>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <h3 align="center">Languages and Tools</h3>
@@ -255,10 +264,6 @@ Windows                  2 hrs 46 mins       ███████████�
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rian010&theme=tokyonight" alt="chavi362"  /></a> </p>
 
-<p align="center">
-  <a href="https://github.com/rian010">
-    <img src="https://github.com/Rian010/rian010/assets/89960876/eb333e83-31ed-4203-8e01-c012107ed59a" alt="github-user-contribution"/>
-  </a>
-</p>
+
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
