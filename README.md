@@ -83,14 +83,6 @@ Windows                  2 hrs 46 mins       ███████████�
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/rian010">
-    <img src="https://github.com/Rian010/rian010/assets/89960876/eb333e83-31ed-4203-8e01-c012107ed59a" alt="github-user-contribution"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rian010&theme=merko" alt="github-user-contribution"/>
-    
-  </a>
-</p>
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <h3 align="center">Languages and Tools</h3>
