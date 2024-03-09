@@ -264,6 +264,7 @@ Windows                  2 hrs 46 mins       ███████████�
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rian010&theme=tokyonight" alt="chavi362"  /></a> </p>
 
+[![An image of @rian010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rian010)](https://holopin.io/@rian010)
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
