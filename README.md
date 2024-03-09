@@ -48,6 +48,15 @@
   
 </div>
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 46 mins
+
+Other      2 hrs 20 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.22 %
+Markdown   19 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.50 %
+Python     6 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.04 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
