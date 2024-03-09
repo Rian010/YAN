@@ -42,12 +42,11 @@
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/018e1f19-a57f-4713-bda0-42a0eda307b2.svg)](https://wakatime.com/@018e1f19-a57f-4713-bda0-42a0eda307b2) ![Followers](https://img.shields.io/github/followers/rian010?label=Followers) ![Stars](https://img.shields.io/github/stars/rian010?label=Stars)
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   
 </div>
-<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
@@ -79,7 +78,7 @@ Windows                  2 hrs 46 mins       ███████████�
 
 
  Last Updated on 09-03-2024 13:48:52 UTC
-<!--END_SECTION:waka-->
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <h3 align="center">Languages and Tools</h3>
